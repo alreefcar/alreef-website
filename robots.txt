@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alreefcar.github.io/alreef-website/sitemap.xml
+Sitemap: http://alreefcar.github.io/alreef-website/sitemap.xml
